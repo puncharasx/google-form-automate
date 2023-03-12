@@ -1,2 +1,3 @@
-# google-form-automate
-This is a google form automate for my homework, it not doesn't support for flexible.Maybe the future it can flexible for support all form. 
+# Google Form automation for my homework !!
+
+This was created by Node.js and Puppeteer, and it can process my Google Form links. It does not support all links, but I will improve it soon.
